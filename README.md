@@ -9,5 +9,3 @@ I love to make game tool, game engine!
 * I like C# ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirisameMarisa&hide=html)
-
-[![@KirisameMarisa's Holopin board](https://holopin.me/KirisameMarisa)](https://holopin.io/@KirisameMarisa)
