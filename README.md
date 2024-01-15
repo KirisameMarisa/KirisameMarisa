@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Kirisame Marisa!
+
+I love to make game tool, game engine, ci etc...!
+
+* I'm currently working on game developer
+* I'm currently makeing BocchiTracker! (The tool is game bug report tool)
+* I like C# ✨
+
+
 
 <!--
 **KirisameMarisa/KirisameMarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
